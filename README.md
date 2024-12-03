@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Leonardo Restoff!
 <ul>
 <li>🎓 Cursando Engenharia de Software na Unifil Londrina.</li>
-<li>👉Estou buscando oportunidades como Desenvolvedor Front-End.</li>
+<li>👉Estou buscando oportunidades como Desenvolvedor Front-End e Back-End.</li>
 <li>📚 Atualmente estou estudando HTTML/CSS/JavaScript/C#.</li>
 </ul>
 <div style="display: inline_block"><br>
